@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.expo/
+.cache/
+coverage/
+*.log
+.claude
+test/

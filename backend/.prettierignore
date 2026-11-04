@@ -1,0 +1,7 @@
+node_modules/
+.cache/
+coverage/
+package-lock.json
+
+# Empty scaffold: remove this entry when ingredient seed data is added.
+src/seeder/ingredientData.json

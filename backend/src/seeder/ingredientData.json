@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Salicylic Acid (BHA)",
+    "aliases": ["BHA", "Salicylic Acid", "Beta Hydroxy Acid"],
+    "category": "exfoliant",
+    "description": "Thấm sâu vào lỗ chân lông làm sạch bã nhờn, trị mụn đầu đen và mụn ẩn.",
+    "dos": ["oily", "combination"],
+    "donts": ["dry", "sensitive"],
+    "targetConcerns": ["acne", "large_pores", "blackheads"],
+    "commonAllergen": false
+  },
+  {
+    "name": "Hyaluronic Acid",
+    "aliases": ["HA", "Sodium Hyaluronate", "Hyaluronic Acid"],
+    "category": "hydrator",
+    "description": "Cấp nước đa tầng, giữ ẩm vượt trội, làm căng bóng và mịn da.",
+    "dos": ["dry", "oily", "combination", "sensitive", "normal"],
+    "donts": [],
+    "targetConcerns": ["dryness", "dullness", "barrier_damage"],
+    "commonAllergen": false
+  },
+  {
+    "name": "Niacinamide (Vitamin B3)",
+    "aliases": ["Niacinamide", "Nicotinamide", "Vitamin B3"],
+    "category": "antioxidant",
+    "description": "Kiềm dầu, củng cố hàng rào bảo vệ da, mờ thâm và se khít lỗ chân lông.",
+    "dos": ["oily", "combination", "normal"],
+    "donts": [],
+    "targetConcerns": ["acne", "large_pores", "dark_spots", "dullness"],
+    "commonAllergen": false
+  },
+  {
+    "name": "Centella Asiatica (Rau má)",
+    "aliases": ["Centella Asiatica Extract", "Madecassoside", "Asiaticoside", "Rau má"],
+    "category": "soothing",
+    "description": "Làm dịu kích ứng, kháng viêm, phục hồi da tổn thương hoặc sau peel.",
+    "dos": ["sensitive", "oily", "dry", "combination", "normal"],
+    "donts": [],
+    "targetConcerns": ["redness", "barrier_damage", "acne"],
+    "commonAllergen": false
+  },
+  {
+    "name": "Ceramide",
+    "aliases": ["Ceramide NP", "Ceramide AP", "Ceramides"],
+    "category": "soothing",
+    "description": "Tái tạo lớp lipid bảo vệ da, ngăn ngừa mất nước, khóa ẩm sâu.",
+    "dos": ["dry", "sensitive", "combination"],
+    "donts": [],
+    "targetConcerns": ["dryness", "barrier_damage", "redness"],
+    "commonAllergen": false
+  },
+  {
+    "name": "Retinol",
+    "aliases": ["Retinol", "Retinyl Palmitate", "Vitamin A"],
+    "category": "retinoid",
+    "description": "Kích thích tái tạo tế bào, trẻ hóa làn da, cải thiện nếp nhăn và mụn.",
+    "dos": ["oily", "combination", "normal"],
+    "donts": ["sensitive", "dry"],
+    "targetConcerns": ["aging", "acne", "dullness"],
+    "commonAllergen": false
+  },
+  {
+    "name": "Glycolic Acid (AHA)",
+    "aliases": ["AHA", "Glycolic Acid", "Lactic Acid"],
+    "category": "exfoliant",
+    "description": "Tẩy da chết bề mặt, kích thích sản sinh collagen, cải thiện da khô ráp sần sùi.",
+    "dos": ["dry", "normal"],
+    "donts": ["sensitive"],
+    "targetConcerns": ["dryness", "dullness", "aging"],
+    "commonAllergen": false
+  },
+  {
+    "name": "Alcohol Denat (Cồn khô)",
+    "aliases": ["Alcohol Denat", "Denatured Alcohol", "Ethanol", "Alcohol"],
+    "category": "preservative_fragrance",
+    "description": "Làm sản phẩm thấm nhanh nhưng có thể gây khô căng, phá vỡ hàng rào ẩm.",
+    "dos": [],
+    "donts": ["dry", "sensitive", "combination"],
+    "targetConcerns": [],
+    "commonAllergen": true
+  },
+  {
+    "name": "Fragrance / Parfum (Hương liệu)",
+    "aliases": ["Fragrance", "Parfum", "Linalool", "Limonene"],
+    "category": "preservative_fragrance",
+    "description": "Tạo mùi hương nhân tạo, dễ gây kích ứng, mẩn đỏ và viêm da tiếp xúc.",
+    "dos": [],
+    "donts": ["sensitive", "dry"],
+    "targetConcerns": [],
+    "commonAllergen": true
+  },
+  {
+    "name": "Panthenol (Vitamin B5)",
+    "aliases": ["Panthenol", "Pro-Vitamin B5", "D-Panthenol"],
+    "category": "soothing",
+    "description": "Cấp nước làm mềm da, giảm ngứa rát, tăng tốc độ lành vết thương.",
+    "dos": ["sensitive", "dry", "oily", "combination", "normal"],
+    "donts": [],
+    "targetConcerns": ["barrier_damage", "redness", "dryness"],
+    "commonAllergen": false
+  },
+  {
+    "name": "Tea Tree Oil (Tràm trà)",
+    "aliases": ["Tea Tree Leaf Oil", "Melaleuca Alternifolia"],
+    "category": "antioxidant",
+    "description": "Kháng khuẩn tự nhiên mạnh mẽ, làm khô cồi mụn sưng viêm.",
+    "dos": ["oily", "combination"],
+    "donts": ["dry", "sensitive"],
+    "targetConcerns": ["acne"],
+    "commonAllergen": true
+  },
+  {
+    "name": "Zinc Oxide",
+    "aliases": ["Zinc Oxide", "Titanium Dioxide"],
+    "category": "sunscreen",
+    "description": "Chống nắng vật lý phổ rộng, an toàn lành tính cho da nhạy cảm mụn.",
+    "dos": ["sensitive", "oily", "dry", "combination", "normal"],
+    "donts": [],
+    "targetConcerns": ["sun_protection", "redness"],
+    "commonAllergen": false
+  }
+]
